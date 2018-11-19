@@ -119,3 +119,9 @@ Elixir has libraries and language features of its own, but at the end of the day
 Erlang is old. Elixir is new. Because Elixir sits on top of Erlang, it gets to use all of the old, battle-tested features of Erlang while also giving us a pleasant syntax to work with. That's pretty cool.
 
 When we install Elixir, therefore, we have to install Erlang (generally, first). Any machine that runs our Elixir code will also need the Erlang VM installed in one way or another (we'll talk more about that later). We'll get everything installed next.
+
+
+## References
+
+- [The BEAM Book](https://happi.github.io/theBeamBook/)
+- [Erlang on Wikipedia](https://en.wikipedia.org/wiki/Erlang_(programming_language)) (sorry for citing Wikipedia, every teacher ever)
